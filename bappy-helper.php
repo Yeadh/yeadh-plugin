@@ -5,7 +5,7 @@
 * Description: After install the Yeadh WordPress Theme, you must need to install this "yeadh-plugin" first to get all functions of yeadh WP Theme.
 * Version: 1.0.0
 * Author: BusinessTheme
-* Author URI: https://github.com/Yeadh
+* Author URI: http://themeforest.net/user/business-theme
 * Text Domain: yeadh
 * License: GPL/GNU.
 */
